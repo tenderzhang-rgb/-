@@ -3,3 +3,6 @@
 通过哈希值锁定状态
 SHA256
 0240CE5F3391C5E28ABB7FA0E95CBF8DA0AC7DD6BCAEB6FE04F7B54332A81A86
+
+使用第三方服务提交文件生成链，生成不可篡改的时间戳：https://opentimestamps.org/
+证明该文件未经修改，且上传时间为2024年5月14日
